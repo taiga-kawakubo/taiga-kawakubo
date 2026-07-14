@@ -93,7 +93,7 @@ goal: "基礎を固め、実務で価値を出せるエンジニアになる"
 | Item | Detail |
 | :--- | :--- |
 | Repository | [contact-form-app](https://github.com/taiga-kawakubo/contact-form-app) |
-| Purpose | 学習内容の最終段階の成果物として制作 |
+| Purpose | 学習した教材のの最終段階の成果物として制作 |
 | Main Features | お問い合わせ送信 / 管理者ログイン / 一覧表示 / 検索 / 削除 / CSV出力 |
 | Stack | Laravel / PHP / HTML / CSS / Blade / Tailwind CSS / MySQL / Docker |
 | Focus | 読みやすいコード、機能追加しやすい構成、テストを意識した実装 |
