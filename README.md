@@ -11,22 +11,31 @@
 
 </div>
 
-## About
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28" /> About Me
 
 Laravel / PHPを中心に、Webアプリケーション開発を学習しています。<br />
 現在は、学習の成果物として制作したお問い合わせ管理アプリを軸に、フォーム送信、認証、検索、一覧表示、削除、CSV出力など、実務でも使われる基本機能の理解と実装力を高めています。
 
-就職・案件獲得に向けて、コードの読みやすさ、保守しやすさ、テストを意識した開発を大切にしています。
+Notionで学習ログを残しながら、ChatGPTやCodexなどのAIも活用し、コードの書き方だけでなく、プログラミング全体の考え方や設計の理解も深めています。
 
 ```yaml
 name: Taiga Kawakubo
+role: Web Developer in training
 focus:
   - Laravel / PHP
   - Web application development
+  - Notionで学習ログを残しながら継続的に振り返ること
+  - ChatGPT / Codexを活用してコード品質と概念理解を深めること
+learning:
   - Admin screens and CRUD features
+  - Authentication / Search / CSV export
   - Clean code and testing
 goal: "基礎を固め、実務で価値を出せるエンジニアになる"
 ```
+
+- Notionに学習ログを残し、理解したこと・詰まった点・改善点を振り返りながら学習しています。
+- ChatGPT / CodexなどのAIを活用し、より良いコードや設計の考え方を学びながら実装しています。
+- 就職・案件獲得に向けて、制作物のREADMEやスクリーンショットも説明しやすい形に整えています。
 
 ## 🧰 Tech Stack
 
