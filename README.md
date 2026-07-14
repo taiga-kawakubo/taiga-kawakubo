@@ -28,22 +28,59 @@ focus:
 goal: "基礎を固め、実務で価値を出せるエンジニアになる"
 ```
 
-## Skills
+## 🧰 Tech Stack
 
-| Category | Skills |
-| :--- | :--- |
-| Backend | PHP / Laravel |
-| Frontend | HTML / CSS / Blade / Tailwind CSS |
-| Database | MySQL |
-| Development Environment | Docker / Laravel Sail / phpMyAdmin |
-| Tools | Git / GitHub |
-| Learning Focus | Authentication / Search / CRUD / CSV Export / Testing |
+<details open>
+<summary><b>Languages</b></summary>
+<br />
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+</details>
 
-<div align="center">
+<details open>
+<summary><b>Frameworks & Libraries</b></summary>
+<br />
+<p>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Blade-F05340?style=for-the-badge&logo=laravel&logoColor=white" alt="Blade" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+</p>
+</details>
 
-<img src="https://skillicons.dev/icons?i=php,laravel,html,css,tailwind,mysql,docker,git,github" alt="Skills" />
+<details open>
+<summary><b>Database & Environment</b></summary>
+<br />
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Laravel_Sail-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Sail" />
+  <img src="https://img.shields.io/badge/phpMyAdmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white" alt="phpMyAdmin" />
+</p>
+</details>
 
-</div>
+<details open>
+<summary><b>Tools</b></summary>
+<br />
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
+</details>
+
+<details open>
+<summary><b>Learning Focus</b></summary>
+<br />
+<p>
+  <img src="https://img.shields.io/badge/Authentication-0F172A?style=for-the-badge" alt="Authentication" />
+  <img src="https://img.shields.io/badge/Search-2563EB?style=for-the-badge" alt="Search" />
+  <img src="https://img.shields.io/badge/CRUD-14B8A6?style=for-the-badge" alt="CRUD" />
+  <img src="https://img.shields.io/badge/CSV_Export-22C55E?style=for-the-badge" alt="CSV Export" />
+  <img src="https://img.shields.io/badge/Testing-F59E0B?style=for-the-badge" alt="Testing" />
+</p>
+</details>
 
 ## Featured Project
 
