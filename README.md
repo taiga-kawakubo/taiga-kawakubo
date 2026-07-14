@@ -74,7 +74,7 @@ goal: "基礎を固め、実務で価値を出せるエンジニアになる"
 <summary><b>AI & Tooling</b></summary>
 <br />
 <p>
-  <img src="https://img.shields.io/badge/OpenAI_Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Codex" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 </details>
@@ -106,8 +106,8 @@ goal: "基礎を固め、実務で価値を出せるエンジニアになる"
 <div align="center">
 
 <a href="https://github.com/taiga-kawakubo">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=taiga-kawakubo&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&theme=transparent&title_color=2563eb&text_color=334155&icon_color=14b8a6" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiga-kawakubo&layout=compact&hide_border=true&theme=transparent&title_color=2563eb&text_color=334155&langs_count=8" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=taiga-kawakubo&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&theme=transparent&title_color=2563eb&text_color=334155&icon_color=14b8a6&custom_title=GitHub%20Stats" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiga-kawakubo&layout=compact&hide_border=true&theme=transparent&title_color=2563eb&text_color=334155&langs_count=8&card_width=360&custom_title=Top%20Languages" alt="Top languages" />
 </a>
 
 </div>
