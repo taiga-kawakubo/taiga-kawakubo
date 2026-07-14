@@ -26,10 +26,6 @@ focus:
   - Web application development
   - Notionで学習ログを残しながら継続的に振り返ること
   - ChatGPT / Codexを活用してコード品質と概念理解を深めること
-learning:
-  - Admin screens and CRUD features
-  - Authentication / Search / CSV export
-  - Clean code and testing
 goal: "基礎を固め、実務で価値を出せるエンジニアになる"
 ```
 
@@ -40,7 +36,7 @@ goal: "基礎を固め、実務で価値を出せるエンジニアになる"
 ## 🧰 Tech Stack
 
 <details open>
-<summary><b>Languages</b></summary>
+<summary><b>💻 Languages</b></summary>
 <br />
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -50,7 +46,7 @@ goal: "基礎を固め、実務で価値を出せるエンジニアになる"
 </details>
 
 <details open>
-<summary><b>Frameworks & Libraries</b></summary>
+<summary><b>🧩 Frameworks & Libraries</b></summary>
 <br />
 <p>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
@@ -60,7 +56,7 @@ goal: "基礎を固め、実務で価値を出せるエンジニアになる"
 </details>
 
 <details open>
-<summary><b>Database & Environment</b></summary>
+<summary><b>🗄️ Database & Environment</b></summary>
 <br />
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -71,7 +67,7 @@ goal: "基礎を固め、実務で価値を出せるエンジニアになる"
 </details>
 
 <details open>
-<summary><b>Tools</b></summary>
+<summary><b>🛠️ Tools</b></summary>
 <br />
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
@@ -80,7 +76,7 @@ goal: "基礎を固め、実務で価値を出せるエンジニアになる"
 </details>
 
 <details open>
-<summary><b>AI & Tooling</b></summary>
+<summary><b>🤖 AI & Tooling</b></summary>
 <br />
 <p>
   <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
@@ -88,9 +84,9 @@ goal: "基礎を固め、実務で価値を出せるエンジニアになる"
 </p>
 </details>
 
-## Featured Project
+## 🚀 Featured Project
 
-### Contact Form App
+### 📬 Contact Form App
 
 お問い合わせフォームと管理者画面を備えたLaravel製アプリです。<br />
 ユーザーはお問い合わせを送信でき、管理者はログイン後にお問い合わせ内容の確認、検索、削除、CSV出力を行えます。
@@ -110,7 +106,7 @@ goal: "基礎を固め、実務で価値を出せるエンジニアになる"
 
 </div>
 
-## GitHub Activity
+## 📊 GitHub Activity
 
 <div align="center">
 
@@ -127,7 +123,7 @@ goal: "基礎を固め、実務で価値を出せるエンジニアになる"
 
 </div>
 
-## Contribution Graph
+## 📈 Contribution Graph
 
 <div align="center">
 
@@ -135,7 +131,7 @@ goal: "基礎を固め、実務で価値を出せるエンジニアになる"
 
 </div>
 
-## Contribution Snake
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -147,7 +143,7 @@ goal: "基礎を固め、実務で価値を出せるエンジニアになる"
 
 </div>
 
-## Contact
+## 🔗 Contact
 
 <div align="center">
 
