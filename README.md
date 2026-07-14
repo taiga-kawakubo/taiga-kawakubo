@@ -71,14 +71,11 @@ goal: "基礎を固め、実務で価値を出せるエンジニアになる"
 </details>
 
 <details open>
-<summary><b>Learning Focus</b></summary>
+<summary><b>AI & Tooling</b></summary>
 <br />
 <p>
-  <img src="https://img.shields.io/badge/Authentication-0F172A?style=for-the-badge" alt="Authentication" />
-  <img src="https://img.shields.io/badge/Search-2563EB?style=for-the-badge" alt="Search" />
-  <img src="https://img.shields.io/badge/CRUD-14B8A6?style=for-the-badge" alt="CRUD" />
-  <img src="https://img.shields.io/badge/CSV_Export-22C55E?style=for-the-badge" alt="CSV Export" />
-  <img src="https://img.shields.io/badge/Testing-F59E0B?style=for-the-badge" alt="Testing" />
+  <img src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 </details>
 
@@ -108,8 +105,10 @@ goal: "基礎を固め、実務で価値を出せるエンジニアになる"
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=taiga-kawakubo&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&theme=transparent&title_color=2563eb&text_color=334155&icon_color=14b8a6" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiga-kawakubo&layout=compact&hide_border=true&theme=transparent&title_color=2563eb&text_color=334155&langs_count=8" alt="Top languages" />
+<a href="https://github.com/taiga-kawakubo">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=taiga-kawakubo&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&theme=transparent&title_color=2563eb&text_color=334155&icon_color=14b8a6" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiga-kawakubo&layout=compact&hide_border=true&theme=transparent&title_color=2563eb&text_color=334155&langs_count=8" alt="Top languages" />
+</a>
 
 </div>
 
