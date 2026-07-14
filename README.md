@@ -148,6 +148,7 @@ goal: "基礎を固め、実務で価値を出せるエンジニアになる"
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-taiga--kawakubo-181717?style=for-the-badge&logo=github)](https://github.com/taiga-kawakubo)
+[![Qiita](https://img.shields.io/badge/Qiita-taiga--kawakubo-55C500?style=for-the-badge&logo=qiita&logoColor=white)](https://qiita.com/taiga-kawakubo)
 
 </div>
 
