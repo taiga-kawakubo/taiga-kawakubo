@@ -110,8 +110,9 @@ goal: "基礎を固め、実務で価値を出せるエンジニアになる"
 <div align="center">
 
 <a href="https://github.com/taiga-kawakubo">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=taiga-kawakubo&show_icons=true&hide_border=true&include_all_commits=true&count_private=false&theme=transparent&title_color=2563eb&text_color=334155&icon_color=14b8a6&custom_title=GitHub%20Stats" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=taiga-kawakubo&layout=compact&hide_border=true&theme=transparent&title_color=2563eb&text_color=334155&langs_count=8&card_width=360&custom_title=Top%20Languages" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=taiga-kawakubo&theme=github" alt="GitHub stats" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=taiga-kawakubo&theme=github" alt="Repos per language" width="32%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=taiga-kawakubo&theme=github" alt="Most commit language" width="32%" />
 </a>
 
 </div>
