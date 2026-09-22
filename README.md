@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:14b8a6&height=210&section=header&text=Taiga%20Kawakubo&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Laravel%20%2F%20PHP%20Developer%20%7C%20Web%20Applications%20and%20Learning%20AI%20Agents&descSize=18&descAlignY=58" alt="Taiga Kawakubo - Laravel / PHP Developer, Web Applications" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,45:2563eb,100:14b8a6&height=210&section=header&text=Taiga%20Kawakubo&fontSize=54&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Laravel%20%2F%20PHP%20Developer%20%7C%20Web%20Applications&descSize=18&descAlignY=58" alt="Taiga Kawakubo - Laravel / PHP Developer, Web Applications" width="100%" />
 
 [![Profile views](https://komarev.com/ghpvc/?username=taiga-kawakubo&label=Profile%20views&color=2563eb&style=flat-square)](https://github.com/taiga-kawakubo)
 [![Followers](https://img.shields.io/github/followers/taiga-kawakubo?label=Followers&style=flat-square&color=2563eb)](https://github.com/taiga-kawakubo?tab=followers)
