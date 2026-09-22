@@ -61,27 +61,15 @@ goal: "基礎を固め、実務で価値を出せるエンジニアになる"
 </details>
 
 <details open>
-<summary><b>Backend & Database</b></summary>
+<summary><b>Database ＆ Infra</b></summary>
 <br />
 <p>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Eloquent_ORM-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Eloquent ORM" />
-  <img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge" alt="REST API" />
-  <img src="https://img.shields.io/badge/Laravel_Fortify-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Fortify" />
-  <img src="https://img.shields.io/badge/Laravel_Sanctum-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Sanctum" />
+   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  
 </p>
 </details>
 
-<details open>
-<summary><b>Testing & Environment</b></summary>
-<br />
-<p>
-  <img src="https://img.shields.io/badge/PHPUnit-3C9CD7?style=for-the-badge&logo=php&logoColor=white" alt="PHPUnit" />
-  <img src="https://img.shields.io/badge/Laravel_Pint-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Pint" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Laravel_Sail-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel Sail" />
-</p>
-</details>
 
 <details open>
 <summary><b>Tools & AI</b></summary>
